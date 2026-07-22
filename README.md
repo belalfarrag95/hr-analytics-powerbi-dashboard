@@ -22,7 +22,7 @@ This dashboard consolidates 311 employee records into a single source of truth, 
 ### 🏠 Home — Landing Hub
 Interactive navigation hub with a custom-designed HTML/CSS welcome screen and quick access to all report pages.
 
-![Home](01-home.png)
+![Home](Home.png)
 
 ### 👥 Attrition & Retention
 Tracks historical turnover (2010–2018), termination reasons, and department-level attrition rates.
@@ -32,7 +32,7 @@ Tracks historical turnover (2010–2018), termination reasons, and department-le
 - Highest attrition by department: **Production (39.7%)** and **Software Engineering (36.4%)**
 - Top termination drivers: another position, general dissatisfaction, compensation
 
-![Attrition](02-attrition.png)
+![Attrition](Attrition.png)
 
 ### 💰 Compensation
 Analyzes pay distribution across gender, age groups, and performance tiers to surface equity gaps.
@@ -42,7 +42,7 @@ Analyzes pay distribution across gender, age groups, and performance tiers to su
 - Gender pay gap: **4.02%** (moderate)
 - Top performers ("Exceeds") earn noticeably more on average than "PIP" tier employees
 
-![Compensation](03-compensation.png)
+![Compensation](Compensation.png)
 
 ### 📈 Performance
 Monitors engagement, absenteeism, and performance distribution across managers and departments.
@@ -52,7 +52,7 @@ Monitors engagement, absenteeism, and performance distribution across managers a
 - PIP rate: **4.18%** | Average satisfaction score: **3.9 / 5**
 - Highest engagement scores reported under Board of Directors and senior leadership
 
-![Performance](04-performance.png)
+![Performance](Performance.png)
 
 ---
 
